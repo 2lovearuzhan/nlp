@@ -1,2 +1,2 @@
-# nlp
-This is a Sentiment Analysis project using Natural Language Processing techniques VADER and RoBERTa. Here I compare the latter 2 in their sentiment recognition accuracy. 
+# Sentiment Analysis
+This is a Natural Language Processing project where I compare the 2  NLP techniques: VADER and RoBERTa. I evaluate their sentiment recognition accuracy on the Amazon review dataset.
